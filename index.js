@@ -60,7 +60,8 @@ function makeInt(n, 10) {
 }
 n = '2.222'
 function preserveDecimal(n) {
-  return NaN
+parseFloat(n)
+return n
 }
 
 
