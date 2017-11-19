@@ -58,7 +58,7 @@ function makeInt(n, 10) {
   function preserveDecimal(n) {
   return NaN
 }
-n = 2.222
+n = '2.222'
 function preserveDecimal(n) {
   return NaN
 }
